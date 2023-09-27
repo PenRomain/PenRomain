@@ -15,3 +15,13 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=penromain&show_icons=true&locale=en&layout=compact" alt="penromain" /></p>
 
+## 👾 GitHub Stats
+
+<br>
+
+<div id="stat" align="center">
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gysen-x&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gysen-x&theme=github_dark"/>
+	<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gysen-x&theme=github_dark"/>
+</div>
+
